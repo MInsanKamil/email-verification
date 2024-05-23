@@ -23,7 +23,7 @@
   ![Alt text](images/Screenshot(779).png)
 - Tampilan Setelah Register
   ![Alt text](images/Screenshot(780).png)
-- Kondisi Database (Akun sudah terdaftar, tetapi belum diverfikasi (isVerified = 0))
+- Kondisi Database (Akun sudah terdaftar, tetapi belum diverifikasi (isVerified = 0))
   ![Alt text](images/Screenshot(781).png)
 - Tampilan Pesan Email Pada Akun Pengguna(berisi link yang jika ditekan, maka akun akan terverifikasi)
   ![Alt text](images/Screenshot(782).png)
