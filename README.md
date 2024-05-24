@@ -19,16 +19,22 @@
 - npm run dev
 
 # Screenshots
-- Tampilan Awal (Halaman Register)
-  ![Alt text](images/Screenshot(779).png)
+- Halaman Register
+  ![Alt text](images/Screenshot(793).png)
 - Tampilan Setelah Register
-  ![Alt text](images/Screenshot(780).png)
+  ![Alt text](images/Screenshot(794).png)
 - Kondisi Database (Akun sudah terdaftar, tetapi belum diverifikasi (isVerified = 0))
-  ![Alt text](images/Screenshot(781).png)
+  ![Alt text](images/Screenshot(795).png)
+- Tampilan Login
+  ![Alt text](images/Screenshot(796).png)
+- Tampilan Setelah Login
+  ![Alt text](images/Screenshot(797).png)
+- Tampilan Setelah Tombol Verifikasi Email ditekan
+  ![Alt text](images/Screenshot(798).png)
 - Tampilan Pesan Email Pada Akun Pengguna(berisi link yang jika ditekan, maka akun akan terverifikasi)
-  ![Alt text](images/Screenshot(782).png)
-- Tampilan ketika link verifikasi ditekan
-  ![Alt text](images/Screenshot(783).png)
+  ![Alt text](images/Screenshot(799).png)
+- Tampilan Setelah Link Verifikasi ditekan
+  ![Alt text](images/Screenshot(800).png)
 - Kondisi Database (Akun sudah terdaftar dan sudah terverifikasi (isVerified = 1))
-  ![Alt text](images/Screenshot(784).png)
+  ![Alt text](images/Screenshot(801).png)
   
